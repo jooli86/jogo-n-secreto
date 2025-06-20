@@ -20,8 +20,8 @@ Este jogo desafia você a adivinhar um número secreto gerado aleatoriamente den
 
 # Tecnologias Utilizadas
 
--HTML
--CSS
+- HTML
+- CSS
 - JavaScript
 
 Este projeto é uma excelente introdução aos conceitos básicos de lógica de programação, manipulação do DOM e interatividade web.
