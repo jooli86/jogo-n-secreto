@@ -1,0 +1,22 @@
+O Jogo do Número Secreto
+Bem-vindo ao Jogo do Número Secreto, um projeto simples e divertido desenvolvido como parte do curso de programação da Alura!
+
+Este jogo desafia você a adivinhar um número secreto gerado aleatoriamente dentro de um determinado intervalo. A cada tentativa, você receberá dicas para saber se o número secreto é maior ou menor do que o seu palpite, ajudando-o a refinar sua estratégia até acertar.
+
+Funcionalidades
+Geração Aleatória: Um número secreto é gerado aleatoriamente a cada nova partida, garantindo uma experiência diferente a cada vez.
+Feedback Interativo: O jogo fornece feedback instantâneo, informando se o seu palpite é muito alto ou muito baixo.
+Contador de Tentativas: Acompanhe quantas tentativas você levou para adivinhar o número, incentivando a melhora do seu desempenho.
+Reiniciar Jogo: Após adivinhar o número, você tem a opção de iniciar uma nova partida.
+Como Jogar
+Inicie o Jogo: Ao executar o programa, um número secreto será gerado.
+Faça seu Palpite: Digite um número no campo indicado e pressione "Enter" ou clique no botão de "Chutar".
+Receba Dicas: O jogo informará se o número secreto é maior ou menor que o seu palpite.
+Continue Tentando: Use as dicas para fazer um novo palpite.
+Vitória! Você vence quando adivinhar o número secreto. O jogo mostrará quantas tentativas foram necessárias.
+Nova Partida: Clique no botão "Novo Jogo" para começar novamente.
+Tecnologias Utilizadas
+HTML
+CSS
+JavaScript
+Este projeto é uma excelente introdução aos conceitos básicos de lógica de programação, manipulação do DOM e interatividade web.
